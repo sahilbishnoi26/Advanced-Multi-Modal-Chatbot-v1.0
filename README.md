@@ -1,10 +1,7 @@
-# Advanced Multimodal Chatbot Readme
+# Advanced-Multi-Modal-Chatbot-v1.0
 
 Welcome to my advanced multimodal chatbot! Here's a breakdown of what it can do and how to get it up and running.
 ## HUMAIN multi-modal multi-task chatbot
-<div align="center">
-  <img src="images/HUMAIN.png" alt="HUMAIN">
-</div>
 
 ## Features:
 - ChatGPT-like interaction: Chatbot can act as a normal AI assistant.
